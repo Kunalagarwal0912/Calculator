@@ -52,13 +52,14 @@ button{
     border-radius: 50%;
     margin: 5px;
     color: aliceblue;
-    background-color: transparent;
+    background-color: rgba(211, 211, 211, 0.032);
     cursor: pointer;
     font-size: 20px;
-    box-shadow: -1px -1px 5px rgba(255, 255, 255, 0.05);
+    box-shadow: -1px -1px 5px rgba(15, 14, 14, 0.8);
 }
 .equal{
     background-color: chocolate;
+    box-shadow: -1px -1px 5px rgb(15, 14, 14,0.8);
 }
 .op_color{
     color: chartreuse;
