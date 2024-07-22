@@ -63,16 +63,3 @@ button{
 .op_color{
     color: chartreuse;
 }
-
-.heading h1{
-    position: absolute;
-    top: 0%;
-    left: 14em;
-    margin: 25px 0;
-    text-transform: uppercase;
-    text-decoration: underline 2px;
-    text-underline-offset: 6px;
-    color: chocolate;
-    font-weight: 900;
-    font-size: 49px;
-}
